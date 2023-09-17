@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijith .
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning hoe to use git in efficient way.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m a skilled computer science engineer.
+- 🌱 I’m currently learning how to use git in efficient way.
+- 💞️ I'm currently pursuing Btech @ college of engineering karunagappally.
 - 📫 How to reach me e-mail me : babhijith58@gmail.com
   
 <!---
