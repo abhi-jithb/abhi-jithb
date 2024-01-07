@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Abhijith .
-- 👀 I’m a Enthusiastic Computer science Engineer.
-- 🌱 I’m currently learning how to use git in efficient way.
-- 💞️ I'm currently pursuing Btech @ college of engineering karunagappally.
-- 📫 How to reach me e-mail me : babhijith58@gmail.com
+- 👀 I’m an Computer science Enthusiast.
+- 🌱 I’m currently learning FSWD.
+- 💞️ I'm currently pursuing Btech @ College of Engineering Karunagappally.
+- 📫 To Connect me visit  : https://abhijithb.vercel.app
   
 <!---
 abhi-jithb/abhi-jithb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
