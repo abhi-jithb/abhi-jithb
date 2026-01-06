@@ -17,7 +17,7 @@
 - 🎯 **Everyday Goal:** Push myself to be 1% better every day.
 - 🚀 **Mission:** Innovate, inspire, and make technology accessible to all.
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhi-jithb)](https://git.io/streak-stats)
 ---
 
 ### 🛠️ Tools & Technologies
