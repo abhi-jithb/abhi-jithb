@@ -7,8 +7,6 @@
        style="border-radius:10px;box-shadow: 0px 0px 20px #ff007f;">
 </div>
 
-<img width="676" height="614" alt="image" src="https://github.com/user-attachments/assets/13860544-4fdf-4654-a3c6-7561d923cba4" />
-
 ---
 
 
