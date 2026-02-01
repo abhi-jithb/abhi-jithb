@@ -75,7 +75,7 @@ Hey there! I'm a passionate developer who loves building meaningful projects and
 <tr>
 <td width="50%">
 
-### 💡 [Idea Thattukada](https://github.com:abhi-jithb/Idea-Thattukada)
+### 💡 [Idea Thattukada](https://github.com/abhi-jithb/Idea-Thattukada)
 ![Stars](https://img.shields.io/github/stars/abhi-jithb/Idea-Thattukada?style=social)
 ![Forks](https://img.shields.io/github/forks/abhi-jithb/Idea-Thattukada?style=social)
 
