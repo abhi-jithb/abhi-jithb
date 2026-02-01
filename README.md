@@ -1,10 +1,21 @@
-# 👋 Welcome to My GitHub Profile!
-
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFteHlkczYyODV2NjM3Mzg5d3NkYzl5d2F3Z2N6ZTAxMXBlcHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C1cnVg7mYyAzxrTfEM/giphy.gif" 
-       alt="Welcome GIF" 
-       width="500" 
-       style="border-radius:10px;box-shadow: 0px 0px 20px #ff007f;">
+
+# 👋 Hey, I'm Abhijith B!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Building+Tools+That+Matter+%F0%9F%92%A1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
+<p align="center">
+  <a href="https://abhijithb.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhi-jithb"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hashnode.com/@abhijithb"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+  <a href="https://abhijith1.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+</p>
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFteHlkczYyODV2NjM3Mzg5d3NkYzl5d2F3Z2N6ZTAxMXBlcHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C1cnVg7mYyAzxrTfEM/giphy.gif" 
+     alt="Coding Animation" 
+     width="600" 
+     style="border-radius:15px;"/>
+
 </div>
 
 ---
@@ -102,19 +113,6 @@ Hey there! I'm a passionate developer who loves building meaningful projects and
 
 </div>
 
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://abhijithb.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-jithb)
-[![Substack](https://img.shields.io/badge/-Substack-FE7A16?style=for-the-badge&logo=substack&logoColor=white)](https://abhijith1.substack.com)
-
-
-</div>
 
 ---
 
