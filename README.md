@@ -17,73 +17,61 @@
 - 🎯 **Everyday Goal:** Push myself to be 1% better every day.
 - 🚀 **Mission:** Innovate, inspire, and make technology accessible to all.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhi-jithb)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
 ---
 
-### 🛠️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,python,java,html,css,tailwind,figma" alt="Skills" />
+
+## 📝 Latest Blog Posts
+
+<!-- Blog Post Cards -->
+<!-- BLOG-POST-LIST:START -->
+*  [How to start Open Source Contribution](https://abhijithb1.substack.com/p/how-to-start-contributing-to-open?r=3h1zgm)
+
+*  [We Finally Launched. Not Perfectly. But Honestly.](https://abhijithb1.substack.com/p/we-finally-launched-not-perfectly?r=3h1zgm)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more blog posts...](https://abhijithb1.substack.com)
+
 </div>
 
 
 ---
 
-### 🌍 Languages Used
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-jithb&layout=compact&theme=radical&hide_border=true" alt="Languages Used" />
+
+## 🤝 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://abhijithb.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-jithb)
+[![Substack](https://img.shields.io/badge/-Substack-FE7A16?style=for-the-badge&logo=substack&logoColor=white)](https://abhijith1.substack.com)
+
+
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
-### 📊 My Streaks & Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-jithb&theme=radical&hide_border=true&fire=ff69b4&currStreakNum=fff&sideLabels=ffb6c1" alt="GitHub Streaks" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-jithb&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+**Build. Ship** 𜱗
+
 </div>
 
 ---
 
-### 🏆 Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi-jithb&theme=radical&margin-w=15" alt="GitHub Trophies" />
+
+Made with ❤️ and lots of ☕
+
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge)
+
 </div>
-
----
-
-
-### 🔗 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/abhi-jithb" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/_abhijith_b" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://medium.com/@abhi-jithb" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://stackoverflow.com/users/abhijith-b" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="StackOverflow" />
-  </a>
-</div>
-
----
-
-### ☕ Buy Me a Coffee
-<div align="center">
-  <a href="https://www.buymeacoffee.com/abhi-jithb" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
-</div>
-
----
-
-### 🌈 My vision
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
-</div>
-
----
-
