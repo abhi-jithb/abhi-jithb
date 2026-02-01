@@ -8,7 +8,7 @@
   <a href="https://abhijithb.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abhi-jithb"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://hashnode.com/@abhijithb"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://abhijith1.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="https://abhijithb1.substack.com"><img src="https://img.shields.io/badge/-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFteHlkczYyODV2NjM3Mzg5d3NkYzl5d2F3Z2N6ZTAxMXBlcHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C1cnVg7mYyAzxrTfEM/giphy.gif" 
