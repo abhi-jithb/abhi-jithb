@@ -1,14 +1,26 @@
+<a id="top"></a>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/hero.svg" width="100%" alt="Grimoire of Abhijith B"/>
+<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/hero.svg" width="100%" alt="The Grimoire of Abhijith B: current mage rank and level"/>
 
 <a href="https://abhijithb.vercel.app"><img src="https://img.shields.io/badge/Portfolio-150d1f?style=for-the-badge&logo=firefoxbrowser&logoColor=f5c451" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/abhi-jithb"><img src="https://img.shields.io/badge/LinkedIn-150d1f?style=for-the-badge&logo=linkedin&logoColor=f5c451" alt="LinkedIn"/></a>
 <a href="https://hashnode.com/@abhijithb"><img src="https://img.shields.io/badge/Hashnode-150d1f?style=for-the-badge&logo=hashnode&logoColor=f5c451" alt="Hashnode"/></a>
 <a href="https://abhijithb1.substack.com"><img src="https://img.shields.io/badge/Substack-150d1f?style=for-the-badge&logo=substack&logoColor=f5c451" alt="Substack"/></a>
 <img src="https://komarev.com/ghpvc/?username=abhi-jithb&label=mages%20who%20visited&color=ff3b5c&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/abhi-jithb?tab=followers"><img src="https://img.shields.io/github/followers/abhi-jithb?style=for-the-badge&logo=github&label=Join%20the%20guild&color=150d1f&labelColor=150d1f&logoColor=f5c451" alt="GitHub followers"/></a>
 
-<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/divider.svg" width="100%"/>
+<sub><b>
+<a href="#-chapter-i--mage-license">License</a> ·
+<a href="#-chapter-ii--magic-affinity">Affinity</a> ·
+<a href="#-chapter-iii--mana-flow">Mana</a> ·
+<a href="#-chapter-iv--boss-raid">Boss Raid</a> ·
+<a href="#-chapter-v--quest-board">Quests</a> ·
+<a href="#-chapter-vi--side-quests">Side Quests</a> ·
+<a href="#chronicles">Chronicles</a>
+</b></sub>
+
+<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -106,6 +118,7 @@ An enchanted notebook that traps ideas before they escape on a Monday.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man eating contributions"/>
+<br>
 <sub>👾 A wild Pac-Man has entered the mana field.</sub>
 </div>
 
@@ -190,6 +203,8 @@ An enchanted notebook that traps ideas before they escape on a Monday.
 
 </details>
 
+<a id="chronicles"></a>
+
 ## 🗞️ Chronicles
 
 - 📖 [Open Source: Overcoming Imposter Fear](https://overcoming-opensource-imposter-fear.hashnode.dev/open-source-overcoming-imposter-fear)
@@ -204,8 +219,12 @@ An enchanted notebook that traps ideas before they escape on a Monday.
 [![PayPal](https://img.shields.io/badge/PayPal-150d1f?style=for-the-badge&logo=paypal&logoColor=f5c451)](https://paypal.me/abhijithb)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-150d1f?style=for-the-badge&logo=githubsponsors&logoColor=ff3b5c)](https://github.com/sponsors/abhi-jithb)
 
-<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhi-jithb/abhi-jithb/output/divider.svg" width="100%" alt=""/>
 
 **My magic? I don't close the tab until the build is green.** 🔥
+
+<a href="https://github.com/abhi-jithb/abhi-jithb/actions/workflows/grimoire.yml"><img src="https://github.com/abhi-jithb/abhi-jithb/actions/workflows/grimoire.yml/badge.svg" alt="Grimoire workflow status"/></a>
+
+<sub>The pages of this grimoire rewrite themselves every morning at 00:17 UTC · <a href="#top">⬆ Back to top</a></sub>
 
 </div>

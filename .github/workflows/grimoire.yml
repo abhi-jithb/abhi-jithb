@@ -1,0 +1,50 @@
+name: Grimoire
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate grimoire
+        run: python scripts/grimoire.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT_DIR: dist
+
+      - name: Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark&color_snake=#f5c451&color_dots=#1d1328,#4a1530,#8c1d3c,#d72f55,#ff8a4c
+
+      - name: Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
