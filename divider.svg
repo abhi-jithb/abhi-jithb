@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 40" width="1000" height="40" role="img" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="bigglow" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="goldgrad" x1="0" x2="1"><stop offset="0" stop-color="#fff1c4"/><stop offset=".5" stop-color="#f5c451"/><stop offset="1" stop-color="#ff7a3d"/></linearGradient>
+<linearGradient id="bloodgrad" x1="0" x2="1"><stop offset="0" stop-color="#ff3b5c"/><stop offset="1" stop-color="#9b6bff"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#ff3b5c" stop-opacity=".28"/><stop offset=".6" stop-color="#9b6bff" stop-opacity=".08"/><stop offset="1" stop-color="#9b6bff" stop-opacity="0"/></radialGradient>
+<radialGradient id="vignette" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#1d1029"/><stop offset="1" stop-color="#07040b"/></radialGradient>
+</defs>
+<style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 28s linear infinite reverse}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.fade{opacity:0;animation:fadein .7s ease-out forwards}
+.twinkle{animation:twinkle 3s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes fadein{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+@keyframes run{from{offset-distance:0%}to{offset-distance:100%}}</style>
+
+<path d="M40 20 H440 M560 20 H960" stroke="url(#bloodgrad)" stroke-width="1.5" opacity=".7"/>
+<g filter="url(#glow)">
+  <g><animateTransform attributeName="transform" type="rotate" from="0 500 20" to="360 500 20" dur="10s" repeatCount="indefinite"/><rect x="488" y="8" width="24" height="24" fill="none" stroke="#f5c451" stroke-width="1.6" transform="rotate(45 500 20)"/></g>
+  <circle cx="500" cy="20" r="5" fill="#ff3b5c" class="pulse"/>
+  <circle cx="460" cy="20" r="2.5" fill="#f5c451" class="pulse" style="animation-delay:.4s"/>
+  <circle cx="540" cy="20" r="2.5" fill="#f5c451" class="pulse" style="animation-delay:.8s"/>
+</g>
+<circle r="3" fill="#f5c451" filter="url(#glow)" style="offset-path:path('M40 20 H960');animation:run 5s linear infinite"/>
+</svg>

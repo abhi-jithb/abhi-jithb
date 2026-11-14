@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 442" width="1000" height="442" role="img" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif">
+<defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="bigglow" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="goldgrad" x1="0" x2="1"><stop offset="0" stop-color="#fff1c4"/><stop offset=".5" stop-color="#f5c451"/><stop offset="1" stop-color="#ff7a3d"/></linearGradient>
+<linearGradient id="bloodgrad" x1="0" x2="1"><stop offset="0" stop-color="#ff3b5c"/><stop offset="1" stop-color="#9b6bff"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#ff3b5c" stop-opacity=".28"/><stop offset=".6" stop-color="#9b6bff" stop-opacity=".08"/><stop offset="1" stop-color="#9b6bff" stop-opacity="0"/></radialGradient>
+<radialGradient id="vignette" cx=".5" cy=".5" r=".75"><stop offset="0" stop-color="#1d1029"/><stop offset="1" stop-color="#07040b"/></radialGradient>
+</defs>
+<style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 28s linear infinite reverse}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+.fade{opacity:0;animation:fadein .7s ease-out forwards}
+.twinkle{animation:twinkle 3s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes fadein{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes twinkle{0%,100%{opacity:.15}50%{opacity:.9}}
+@keyframes grow{to{transform:scaleX(1)}}</style>
+<rect width="1000" height="442" rx="16" fill="url(#vignette)"/><rect x="10" y="10" width="980" height="422" rx="10" fill="none" stroke="#2a1838" stroke-width="1.5"/><path d="M10 32 L10 10 L32 10" stroke="#f5c451" stroke-width="2.5" fill="none" filter="url(#glow)"/><circle cx="10" cy="10" r="3.5" fill="#f5c451"/><path d="M990 32 L990 10 L968 10" stroke="#f5c451" stroke-width="2.5" fill="none" filter="url(#glow)"/><circle cx="990" cy="10" r="3.5" fill="#f5c451"/><path d="M10 410 L10 432 L32 432" stroke="#f5c451" stroke-width="2.5" fill="none" filter="url(#glow)"/><circle cx="10" cy="432" r="3.5" fill="#f5c451"/><path d="M990 410 L990 432 L968 432" stroke="#f5c451" stroke-width="2.5" fill="none" filter="url(#glow)"/><circle cx="990" cy="432" r="3.5" fill="#f5c451"/><text x="500.0" y="40" text-anchor="middle" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" letter-spacing="5" fill="#f5c451" font-weight="700">MAGIC AFFINITY</text><path d="M270.0 34 H330.0 M670.0 34 H730.0" stroke="#f5c451" stroke-opacity=".5"/><circle cx="247" cy="61" r="1.7" fill="#f5c451" class="twinkle" style="animation-delay:0.46s"/><circle cx="84" cy="181" r="1.3" fill="#f1e8da" class="twinkle" style="animation-delay:0.67s"/><circle cx="535" cy="131" r="1" fill="#f1e8da" class="twinkle" style="animation-delay:0.79s"/><circle cx="925" cy="30" r="1.3" fill="#f5c451" class="twinkle" style="animation-delay:0.58s"/><circle cx="317" cy="272" r="1.3" fill="#f1e8da" class="twinkle" style="animation-delay:2.53s"/><circle cx="344" cy="176" r="1" fill="#f1e8da" class="twinkle" style="animation-delay:0.74s"/><circle cx="289" cy="400" r="1.3" fill="#f1e8da" class="twinkle" style="animation-delay:2.73s"/><circle cx="569" cy="375" r="1" fill="#f5c451" class="twinkle" style="animation-delay:1.27s"/><circle cx="297" cy="201" r="1" fill="#f5c451" class="twinkle" style="animation-delay:0.78s"/><circle cx="785" cy="53" r="1.7" fill="#9b6bff" class="twinkle" style="animation-delay:2.99s"/><circle cx="518" cy="280" r="1.3" fill="#f1e8da" class="twinkle" style="animation-delay:2.99s"/><circle cx="208" cy="186" r="1" fill="#9b6bff" class="twinkle" style="animation-delay:1.90s"/><circle cx="285" cy="163" r="1.3" fill="#9b6bff" class="twinkle" style="animation-delay:1.68s"/><circle cx="888" cy="61" r="0.8" fill="#9b6bff" class="twinkle" style="animation-delay:0.69s"/><circle cx="755" cy="267" r="1" fill="#f1e8da" class="twinkle" style="animation-delay:0.99s"/><circle cx="190" cy="205" r="0.8" fill="#f5c451" class="twinkle" style="animation-delay:2.09s"/><circle cx="880" cy="404" r="1.3" fill="#f1e8da" class="twinkle" style="animation-delay:0.97s"/><circle cx="329" cy="81" r="1.7" fill="#9b6bff" class="twinkle" style="animation-delay:2.04s"/><circle cx="95" cy="268" r="1.7" fill="#f5c451" class="twinkle" style="animation-delay:0.41s"/><circle cx="386" cy="407" r="1.3" fill="#9b6bff" class="twinkle" style="animation-delay:0.03s"/><circle cx="63" cy="88" r="1.3" fill="#f5c451" class="twinkle" style="animation-delay:1.71s"/><circle cx="442" cy="103" r="1" fill="#f1e8da" class="twinkle" style="animation-delay:0.18s"/><circle cx="73" cy="88" r="1" fill="#9b6bff" class="twinkle" style="animation-delay:0.12s"/><circle cx="491" cy="120" r="0.8" fill="#f1e8da" class="twinkle" style="animation-delay:2.50s"/><circle cx="301" cy="421" r="1" fill="#f5c451" class="twinkle" style="animation-delay:0.61s"/>
+<g class="fade" style="animation-delay:0.00s">
+  <text x="44" y="100" font-size="20">🐍</text>
+  <text x="80" y="94" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">Python</text>
+  <text x="80" y="112" font-size="12" fill="#9a8cae" letter-spacing="1">SERPENT MAGIC</text>
+  <rect x="300" y="88" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="88" width="520" height="14" rx="7" fill="#3572A5" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.30s forwards"/>
+  <circle cx="820" cy="95" r="4" fill="#fff" class="pulse" style="animation-delay:0.0s"/>
+  <text x="850" y="101" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">44.6%</text>
+</g>
+<g class="fade" style="animation-delay:0.12s">
+  <text x="44" y="144" font-size="20">✦</text>
+  <text x="80" y="138" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">Perl</text>
+  <text x="80" y="156" font-size="12" fill="#9a8cae" letter-spacing="1">ARCANE MAGIC</text>
+  <rect x="300" y="132" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="132" width="278" height="14" rx="7" fill="#0298c3" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.42s forwards"/>
+  <circle cx="578" cy="139" r="4" fill="#fff" class="pulse" style="animation-delay:0.3s"/>
+  <text x="850" y="145" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">23.9%</text>
+</g>
+<g class="fade" style="animation-delay:0.24s">
+  <text x="44" y="188" font-size="20">⚡</text>
+  <text x="80" y="182" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">TypeScript</text>
+  <text x="80" y="200" font-size="12" fill="#9a8cae" letter-spacing="1">LIGHTNING MAGIC</text>
+  <rect x="300" y="176" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="176" width="105" height="14" rx="7" fill="#3178c6" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.54s forwards"/>
+  <circle cx="405" cy="183" r="4" fill="#fff" class="pulse" style="animation-delay:0.6s"/>
+  <text x="850" y="189" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">9.0%</text>
+</g>
+<g class="fade" style="animation-delay:0.36s">
+  <text x="44" y="232" font-size="20">✦</text>
+  <text x="80" y="226" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">Go Template</text>
+  <text x="80" y="244" font-size="12" fill="#9a8cae" letter-spacing="1">ARCANE MAGIC</text>
+  <rect x="300" y="220" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="220" width="98" height="14" rx="7" fill="#00ADD8" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.66s forwards"/>
+  <circle cx="398" cy="227" r="4" fill="#fff" class="pulse" style="animation-delay:0.9s"/>
+  <text x="850" y="233" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">8.4%</text>
+</g>
+<g class="fade" style="animation-delay:0.48s">
+  <text x="44" y="276" font-size="20">🔥</text>
+  <text x="80" y="270" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">JavaScript</text>
+  <text x="80" y="288" font-size="12" fill="#9a8cae" letter-spacing="1">FLAME MAGIC</text>
+  <rect x="300" y="264" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="264" width="35" height="14" rx="7" fill="#f1e05a" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.78s forwards"/>
+  <circle cx="335" cy="271" r="4" fill="#fff" class="pulse" style="animation-delay:1.2s"/>
+  <text x="850" y="277" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">3.0%</text>
+</g>
+<g class="fade" style="animation-delay:0.60s">
+  <text x="44" y="320" font-size="20">❄</text>
+  <text x="80" y="314" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">Kotlin</text>
+  <text x="80" y="332" font-size="12" fill="#9a8cae" letter-spacing="1">FROST MAGIC</text>
+  <rect x="300" y="308" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="308" width="30" height="14" rx="7" fill="#A97BFF" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 0.90s forwards"/>
+  <circle cx="330" cy="315" r="4" fill="#fff" class="pulse" style="animation-delay:1.5s"/>
+  <text x="850" y="321" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">2.5%</text>
+</g>
+<g class="fade" style="animation-delay:0.72s">
+  <text x="44" y="364" font-size="20">🌊</text>
+  <text x="80" y="358" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">CSS</text>
+  <text x="80" y="376" font-size="12" fill="#9a8cae" letter-spacing="1">WATER MAGIC</text>
+  <rect x="300" y="352" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="352" width="29" height="14" rx="7" fill="#663399" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 1.02s forwards"/>
+  <circle cx="329" cy="359" r="4" fill="#fff" class="pulse" style="animation-delay:1.8s"/>
+  <text x="850" y="365" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">2.5%</text>
+</g>
+<g class="fade" style="animation-delay:0.84s">
+  <text x="44" y="408" font-size="20">🏹</text>
+  <text x="80" y="402" font-family="'Cinzel','Trajan Pro',Georgia,'Times New Roman',serif" font-size="17" font-weight="700" fill="#f1e8da">Dart</text>
+  <text x="80" y="420" font-size="12" fill="#9a8cae" letter-spacing="1">ARROW MAGIC</text>
+  <rect x="300" y="396" width="520" height="14" rx="7" fill="#22152e"/>
+  <rect x="300" y="396" width="22" height="14" rx="7" fill="#00B4AB" filter="url(#glow)"
+        style="transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow 1.3s cubic-bezier(.2,.8,.2,1) 1.14s forwards"/>
+  <circle cx="322" cy="403" r="4" fill="#fff" class="pulse" style="animation-delay:2.1s"/>
+  <text x="850" y="409" font-family="'Fira Code','JetBrains Mono',Consolas,monospace" font-size="15" fill="#f5c451">1.9%</text>
+</g>
+</svg>
